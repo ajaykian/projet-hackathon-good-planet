@@ -1,0 +1,52 @@
+html{
+  padding:0 auto;
+  margin:0 auto;
+}
+.one{
+  background: linear-gradient(to left, #41A2FC, lightblue);
+  height: 600px;
+  width: 100%;
+  clip-path: polygon(100% 0, 100% 90%, 0 18%, 0 0);
+}
+.two{
+  background: #E6F6F7;
+  height: 600px;
+  width: 100%;
+  margin-top: -300px;
+}
+.three{
+  height: 300px;
+  width: 100%;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.three, h1, h2, h4, ul, li{
+  color: grey;
+}
+.separation{
+  background: rgba(214, 214, 214, 0.64);
+  height: 8px;
+  width: 100%
+}
+.logo{
+  margin-left: 85px;
+  margin-top: 5px;
+}
+.video{
+  margin-top: 150px;
+  margin-left: 150px;
+}
+.jeu{
+  font-size: 125px;
+  color: white;
+  float: right;
+}
+.jeu:hover{
+  color: #74FC76;
+}
+.mail{
+  font-size: 35px;
+}
+li{
+  font-size: 25px;
+}
